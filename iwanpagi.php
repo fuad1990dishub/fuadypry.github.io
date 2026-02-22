@@ -36,7 +36,7 @@ $t=json_decode($m,true);
         'token' => $t['token'],
         'lat' => $lat_baru,
 	'lang'=>$lng_baru,
-        'zjam' => base64_encode('16:00:01'),
+        'zjam' => base64_encode('07:18:01'),
 	'stimo' => 1,
 	'status'=>0
 
